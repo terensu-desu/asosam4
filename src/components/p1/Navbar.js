@@ -4,16 +4,14 @@ import $ from "jquery"
 import 'materialize-css/dist/js/materialize.js'
 
 class Navbar extends Component {
-/*
+
   componentDidMount(){
     this.handleDropdown()
   }
 
   handleDropdown() {
-    $(document).ready(function() {
-      $(".dropdown-button").dropdown()
-    })
-  }*/
+    $(".dropdown-button").dropdown()
+  }
 
   render() {
     return (
