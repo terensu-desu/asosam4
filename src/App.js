@@ -2,9 +2,6 @@ import React, { Component } from 'react'
 import { BrowserRouter as Router } from 'react-router-dom'
 import Sidebar from './components/Sidebar'
 import Layout from './components/Layout'
-
-import 'materialize-css/dist/css/materialize.css'
-import 'materialize-css/dist/js/materialize.js'
 import './App.css'
 
 class App extends Component {
