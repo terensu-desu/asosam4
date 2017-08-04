@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import Main from './Main'
-// import GeneralStore from '../stores/GeneralStore'
 
 class Layout extends Component {
   render() {
