@@ -9,7 +9,9 @@ class Navbar extends Component {
   }
 
   handleDropdown() {
-    $(".dropdown-button").dropdown()
+    $(document).ready(function(){
+      $(".dropdown-button").dropdown()
+    })
   }
 
   render() {
