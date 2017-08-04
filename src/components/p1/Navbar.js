@@ -4,7 +4,7 @@ import $ from "jquery"
 import 'materialize-css/dist/js/materialize.js'
 
 class Navbar extends Component {
-
+/*
   componentDidMount(){
     this.handleDropdown()
   }
@@ -13,7 +13,7 @@ class Navbar extends Component {
     $(document).ready(function() {
       $(".dropdown-button").dropdown()
     })
-  }
+  }*/
 
   render() {
     return (
