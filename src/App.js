@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { BrowserRouter as Router } from 'react-router-dom'
+import { HashRouter as Router } from 'react-router-dom' //normally using BrowserRouter
 import Sidebar from './components/Sidebar'
 import Layout from './components/Layout'
 import './App.css'
