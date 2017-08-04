@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import { Link } from 'react-router-dom'
 import $ from "jquery"
-
+import 'materialize-css/dist/js/materialize.js'
 
 class Navbar extends Component {
 

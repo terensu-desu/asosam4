@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import { HashRouter as Router } from 'react-router-dom' //normally BrowserRouter
 import Sidebar from './components/Sidebar'
 import Layout from './components/Layout'
-
+import $ from "jquery"
 import 'materialize-css/dist/css/materialize.css'
 import 'materialize-css/dist/js/materialize.js'
 import './App.css'
