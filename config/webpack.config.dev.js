@@ -251,7 +251,8 @@ module.exports = {
     new webpack.ProvidePlugin({
       $: 'materialize-css/node_modules/jquery/dist/jquery',
       jQuery: 'materialize-css/node_modules/jquery/dist/jquery',
-      'window.jQuery': 'materialize-css/node_modules/jquery/dist/jquery'
+      'window.jQuery': 'materialize-css/node_modules/jquery/dist/jquery',
+      "Hammer": "hammerjs/hammer"
     }),
   ],
   // Some libraries import Node modules but don't use them in the browser.

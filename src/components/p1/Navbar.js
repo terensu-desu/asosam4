@@ -1,18 +1,7 @@
 import React, { Component } from 'react'
 import { Link } from 'react-router-dom'
-import $ from "jquery"
 
 class Navbar extends Component {
-
-  componentDidMount(){
-    this.handleDropdown()
-  }
-
-  handleDropdown() {
-    $(document).ready(function(){
-      $(".dropdown-button").dropdown()
-    })
-  }
 
   render() {
     return (
