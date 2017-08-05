@@ -20,12 +20,12 @@ class Sidebar extends Component {
         	<li>
         		<div id="sidebar-stuff" className="user-view center">
         			<div className="background yellow">
-        				<img src="http://i.imgur.com/jGbR1pM.jpg?1" alt="profile-background" />
+        				<img src="https://i.imgur.com/jGbR1pM.jpg?1" alt="profile-background" />
         			</div>
         			<div className="container-fluid">
         				<div className="row">
         					<div className="col s12">
-        						<img src="http://i.imgur.com/HJSqv91.jpg" alt="author" id="authorpic" className="z-depth-4 sidebar-img" />
+        						<img src="https://i.imgur.com/HJSqv91.jpg" alt="author" id="authorpic" className="z-depth-4 sidebar-img" />
         					</div>
         				</div>
         			</div>

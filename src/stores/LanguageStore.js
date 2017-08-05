@@ -30,14 +30,14 @@ class DataStore extends EventEmitter {
 				key: 1,
 				title: "BookFront",
 				text: "For this project, I wanted to stretch my JavaScript legs. I imagined a local bookstore that wanted to attract people not just to shop but to discuss books as well. Featured books and new arrivals can be shown easily, as well as upcoming events for open discussion about books.",
-				vlink: "http://placehold.it/586x327",
+				vlink: "https://placehold.it/586x327",
         url: "#"
 			},
 			{
 				key: 2,
 				title: "Hopefully Something Cool",
 				text: "I'll stop making a million portfolios and make something interesting, for once, soon. I'm thinking about a dashboard-like page, with weather, traffic, news, and other modules that update live. Something that I'd find useful to keep open on my work computer. Stay tuned.",
-				vlink: "http://placehold.it/586x327",
+				vlink: "https://placehold.it/586x327",
         url: "#"
 			}
   		],
@@ -78,14 +78,14 @@ class DataStore extends EventEmitter {
 				key: 1,
 				title: "BookFront",
 				text: "このプロジェクトにもっとJavaScriptを使いたかったです。二つの欲求に小規模な本屋を描きました。一つ目は本に買いものする客さんに引き付けます。二つ目は本を話し合う客さんに引き付けます。目玉商品と新しい商品は見えやすいです。も客さんは話し合うイベントのカレンダー見えます。",
-				vlink: "http://placehold.it/586x327",
+				vlink: "https://placehold.it/586x327",
         url: "#"
 			},
 			{
 				key: 2,
 				title: "Hopefully Something Cool",
 				text: "もすぐ面白い何かを作りたいです。今ダッシュボードをアプリを作ること考えています。そのプロジェクトは便利な毎日インフォメシオンを見せています。例えば、天気、ニュース、渋滞のニュースなどを見ることできます。また来てください。",
-        vlink: "http://placehold.it/586x327",
+        vlink: "https://placehold.it/586x327",
 				url: "#"
 			}
   		],

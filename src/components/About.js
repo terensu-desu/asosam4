@@ -16,7 +16,7 @@ class About extends Component {
             <div className="col s12">
               <br/>
               <br/>
-              <img src="http://i.imgur.com/NPqHt2yb.jpg" alt="author" className="circle responsive-img z-depth-4" />
+              <img src="https://i.imgur.com/NPqHt2yb.jpg" alt="author" className="circle responsive-img z-depth-4" />
               <h1 className="banner-text">{ main }</h1>
               <h3 className="banner-text">{ sub }</h3>
             </div>

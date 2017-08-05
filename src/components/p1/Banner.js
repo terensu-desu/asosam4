@@ -16,7 +16,7 @@ class Banner extends Component {
     const bannerStyle = {
       color: "white",
       textShadow: "2px 2px 5px black",
-      background: "url(http://i.imgur.com/ELpAftG.jpg?1) no-repeat center center"
+      background: "url(https://i.imgur.com/ELpAftG.jpg?1) no-repeat center center"
     }
     return (
       	<div id="nihon-banner" className="container-fluid">

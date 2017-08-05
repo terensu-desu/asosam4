@@ -15,28 +15,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Lesson Plan for Unit 1 Part 3 Key Grammar",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Lesson Plan for Unit 1 Part 3 Speaking Test",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -45,28 +45,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -75,28 +75,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -105,28 +105,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -135,28 +135,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -169,28 +169,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Lesson Plan for Unit 1 Part 3 Key Grammar",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Lesson Plan for Unit 1 Part 3 Speaking Test",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -199,28 +199,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -229,28 +229,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -259,28 +259,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -289,28 +289,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -323,28 +323,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Lesson Plan for Unit 1 Part 3 Key Grammar",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Lesson Plan for Unit 1 Part 3 Speaking Test",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -353,28 +353,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -383,28 +383,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -413,28 +413,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -443,28 +443,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -477,28 +477,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Lesson Plan for Unit 1 Part 3 Key Grammar",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Lesson Plan for Unit 1 Part 3 Speaking Test",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -507,28 +507,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -537,28 +537,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -567,28 +567,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -597,28 +597,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -631,28 +631,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Lesson Plan for Unit 1 Part 3 Key Grammar",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Lesson Plan for Unit 1 Part 3 Speaking Test",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -661,28 +661,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -691,28 +691,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -721,28 +721,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -751,28 +751,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -785,28 +785,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Lesson Plan for Unit 1 Part 3 Key Grammar",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Lesson Plan for Unit 1 Part 3 Speaking Test",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -815,28 +815,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -845,28 +845,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -875,28 +875,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -905,28 +905,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -939,28 +939,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Lesson Plan for Unit 1 Part 3 Key Grammar",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Lesson Plan for Unit 1 Part 3 Speaking Test",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -969,28 +969,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -999,28 +999,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -1029,28 +1029,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -1059,28 +1059,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -1093,28 +1093,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Lesson Plan for Unit 1 Part 3 Key Grammar",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Lesson Plan for Unit 1 Part 3 Speaking Test",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -1123,28 +1123,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -1153,28 +1153,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -1183,28 +1183,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -1213,28 +1213,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -1247,28 +1247,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Lesson Plan for Unit 1 Part 3 Key Grammar",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Lesson Plan for Unit 1 Part 3 Speaking Test",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -1277,28 +1277,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -1307,28 +1307,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -1337,28 +1337,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -1367,28 +1367,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -1401,28 +1401,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Lesson Plan for Unit 1 Part 3 Key Grammar",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Lesson Plan for Unit 1 Part 3 Speaking Test",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -1431,28 +1431,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -1461,28 +1461,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -1491,28 +1491,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -1521,28 +1521,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -1555,28 +1555,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Lesson Plan for Unit 1 Part 3 Key Grammar",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Lesson Plan for Unit 1 Part 3 Speaking Test",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -1585,28 +1585,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -1615,28 +1615,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -1645,28 +1645,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -1675,28 +1675,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -1709,28 +1709,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -1739,28 +1739,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -1769,28 +1769,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -1799,28 +1799,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -1829,28 +1829,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -1866,28 +1866,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Lesson Plan for Unit 1 Part 3 Key Grammar",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Lesson Plan for Unit 1 Part 3 Speaking Test",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -1896,28 +1896,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -1926,28 +1926,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -1956,28 +1956,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -1986,28 +1986,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -2020,28 +2020,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Lesson Plan for Unit 1 Part 3 Key Grammar",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Lesson Plan for Unit 1 Part 3 Speaking Test",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -2050,28 +2050,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -2080,28 +2080,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -2110,28 +2110,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -2140,28 +2140,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -2174,28 +2174,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Lesson Plan for Unit 1 Part 3 Key Grammar",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Lesson Plan for Unit 1 Part 3 Speaking Test",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -2204,28 +2204,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -2234,28 +2234,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -2264,28 +2264,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -2294,28 +2294,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -2328,28 +2328,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Lesson Plan for Unit 1 Part 3 Key Grammar",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Lesson Plan for Unit 1 Part 3 Speaking Test",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -2358,28 +2358,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -2388,28 +2388,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -2418,28 +2418,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -2448,28 +2448,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -2482,28 +2482,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Lesson Plan for Unit 1 Part 3 Key Grammar",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Lesson Plan for Unit 1 Part 3 Speaking Test",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -2512,28 +2512,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -2542,28 +2542,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -2572,28 +2572,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -2602,28 +2602,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -2636,28 +2636,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Lesson Plan for Unit 1 Part 3 Key Grammar",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Lesson Plan for Unit 1 Part 3 Speaking Test",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -2666,28 +2666,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -2696,28 +2696,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -2726,28 +2726,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -2756,28 +2756,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -2790,28 +2790,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Lesson Plan for Unit 1 Part 3 Key Grammar",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Lesson Plan for Unit 1 Part 3 Speaking Test",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -2820,28 +2820,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -2850,28 +2850,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -2880,28 +2880,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -2910,28 +2910,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -2947,28 +2947,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Lesson Plan for Unit 1 Part 3 Key Grammar",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Lesson Plan for Unit 1 Part 3 Speaking Test",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -2977,28 +2977,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -3007,28 +3007,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -3037,28 +3037,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -3067,28 +3067,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -3101,28 +3101,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Lesson Plan for Unit 1 Part 3 Key Grammar",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Lesson Plan for Unit 1 Part 3 Speaking Test",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -3131,28 +3131,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -3161,28 +3161,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -3191,28 +3191,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -3221,28 +3221,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -3255,28 +3255,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Lesson Plan for Unit 1 Part 3 Key Grammar",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Lesson Plan for Unit 1 Part 3 Speaking Test",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -3285,28 +3285,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -3315,28 +3315,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -3345,28 +3345,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -3375,28 +3375,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -3409,28 +3409,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Lesson Plan for Unit 1 Part 3 Key Grammar",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Lesson Plan for Unit 1 Part 3 Speaking Test",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -3439,28 +3439,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -3469,28 +3469,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -3499,28 +3499,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -3529,28 +3529,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -3563,28 +3563,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Lesson Plan for Unit 1 Part 3 Key Grammar",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Lesson Plan for Unit 1 Part 3 Speaking Test",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -3593,28 +3593,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -3623,28 +3623,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -3653,28 +3653,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -3683,28 +3683,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -3717,28 +3717,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Lesson Plan for Unit 1 Part 3 Key Grammar",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Lesson Plan for Unit 1 Part 3 Speaking Test",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -3747,28 +3747,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -3777,28 +3777,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -3807,28 +3807,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -3837,28 +3837,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -3873,28 +3873,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Lesson Plan for Unit 1 Part 3 Key Grammar",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Lesson Plan for Unit 1 Part 3 Speaking Test",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -3903,28 +3903,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -3933,28 +3933,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -3963,28 +3963,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -3993,28 +3993,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -4027,28 +4027,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Lesson Plan for Unit 1 Part 3 Key Grammar",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Lesson Plan for Unit 1 Part 3 Speaking Test",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -4057,28 +4057,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -4087,28 +4087,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -4117,28 +4117,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -4147,28 +4147,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -4181,28 +4181,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Lesson Plan for Unit 1 Part 3 Key Grammar",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Lesson Plan for Unit 1 Part 3 Speaking Test",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -4211,28 +4211,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -4245,28 +4245,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Lesson Plan for Unit 1 Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Lesson Plan for Unit 1 Part 3 Key Grammar",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Lesson Plan for Unit 1 Part 3 Speaking Test",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -4275,28 +4275,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Guess Who Activity 1",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Guess Who Activity 2",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -4305,28 +4305,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
@@ -4335,28 +4335,28 @@ class PageDataStore extends EventEmitter{
 				{
 					key: 1,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 2,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 3,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				},
 				{
 					key: 4,
 					title: "Placeholder Title - Placeholder for Activity Focus",
-					image: "http://placehold.it/500x600",
+					image: "https://placehold.it/500x600",
 					download: "#!",
 					instructions: "Lorem ipsum dolor sit amet, eu officiis scribentur sed. Erroribus scribentur mea ne. Illud ceteros eum cu. Te meliore eleifend qui, cum principes philosophia an."
 				}
