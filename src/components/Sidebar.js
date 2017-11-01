@@ -39,7 +39,7 @@ class Sidebar extends Component {
         	<li className="nav-li"><Link to="/contact">Contact Me<i className="material-icons right">contact_mail</i></Link></li>
         	<li className="nav-li"><div className="divider"></div></li>
         	<li><p className="subheader" style={ headingStyle }>Projects</p></li>
-        	<li className="nav-li"><Link style={ linkStyle } to="/nihonalt" className="waves-effect">NihonALT</Link></li>
+        	<li className="nav-li"><Link style={ linkStyle } to="https://terensu-desu.github.io/nihon-alt/" className="waves-effect">NihonALT</Link></li>
         	<li className="nav-li"><a style={ linkStyle } href="#!" className="waves-effect">BookFront</a></li>
         	<li className="nav-li"><a style={ linkStyle } href="#!" className="waves-effect">Dashboard</a></li>
         </ul>
