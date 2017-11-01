@@ -1,8 +1,7 @@
 import React, { Component } from 'react'
 import { HashRouter as Router } from 'react-router-dom' //normally BrowserRouter
 import Sidebar from './components/Sidebar'
-import Layout from './components/Layout'
-
+import Main from './components/Main'
 import './App.css'
 
 class App extends Component {
@@ -14,10 +13,10 @@ class App extends Component {
   }
 
   handleLangUpdate(e) {
+    e.preventDefault()
     this.setState({
       english: !this.state.english
     })
-    e.preventDefault()
   }
 
   render() {
@@ -25,7 +24,7 @@ class App extends Component {
       <Router>
         <div className="app-container">
           <Sidebar language={ this.state.english } updateLang={ this.handleLangUpdate.bind(this) } />
-          <Layout language={ this.state.english } />
+          <Main language={ this.state.english } />
         </div>
       </Router>
     )
