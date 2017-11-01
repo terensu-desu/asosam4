@@ -31,14 +31,20 @@ class Main extends Component {
   			<Contact langData= { this.sendData(this.props.language) } />
   		)
   	}
-
+    const pageStyle = {
+      margin: "20px 0 30px 30px",
+      marginRight: "30px"
+    }
     return (
-      	<div className="main-view">
-	        <Route exact path="/" render={ AboutPage } />
-	        <Route path="/portfolio" render={ PortfolioPage } />
-	        <Route path="/contact" render={ ContactPage } />
-	        <Route path="/nihonalt" component={ NihonALT } />
+      <div  className="container-fluid" style={ pageStyle }>
+        <div className="section no-padding">
+        	<div className="main-view">
+  	        <Route exact path="/" render={ AboutPage } />
+  	        <Route path="/portfolio" render={ PortfolioPage } />
+  	        <Route path="/contact" render={ ContactPage } />
+          </div>
         </div>
+      </div>
     )
   }
 }
