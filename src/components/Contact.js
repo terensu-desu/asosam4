@@ -9,7 +9,7 @@ class Contact extends React.Component {
 		let company = refs.company.value
 		let phone = refs.phone.value
 		let message = refs.message.value
-
+		
 		this.props.sendContactForm(name, email, company, phone, message)
 		refs.contactForm.reset()
 	}
