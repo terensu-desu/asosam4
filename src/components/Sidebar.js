@@ -36,12 +36,11 @@ class Sidebar extends Component {
         	</li>
         	<li className="nav-li active"><Link to="/">About Myself<i className="material-icons right">home</i></Link></li>
         	<li className="nav-li"><Link to="/portfolio">About My Projects<i className="material-icons right">video_library</i></Link></li>
-        	<li className="nav-li"><Link to="/contact">Contact Me<i className="material-icons right">contact_mail</i></Link></li>
         	<li className="nav-li"><div className="divider"></div></li>
         	<li><p className="subheader" style={ headingStyle }>Projects</p></li>
-        	<li className="nav-li"><Link style={ linkStyle } to="https://terensu-desu.github.io/nihon-alt/" className="waves-effect">NihonALT</Link></li>
+        	<li className="nav-li"><a style={ linkStyle } href="https://terensu-desu.github.io/nihon-alt/" className="waves-effect">NihonALT</a></li>
+            <li className="nav-li"><a style={ linkStyle } href="https://terensu-desu.github.io/vitamin/"  className="waves-effect">Vitamin</a></li>
         	<li className="nav-li"><a style={ linkStyle } href="#!" className="waves-effect">BookFront</a></li>
-        	<li className="nav-li"><a style={ linkStyle } href="#!" className="waves-effect">Dashboard</a></li>
         </ul>
       </header>
     )

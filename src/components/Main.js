@@ -1,34 +1,18 @@
 import React, { Component } from 'react'
 import { Route } from 'react-router-dom'
 import About from './About'
-import Contact from './Contact'
 import Portfolio from './Portfolio'
-import NihonALT from './p1/NihonALT'
-import LanguageStore from '../stores/LanguageStore'
 
-class Main extends Component {	
-
-	sendData(lang) {
-		if(lang === true) {
-			return LanguageStore.getData("english")
-		}
-		return LanguageStore.getData("japanese")
-	}
-
+class Main extends Component {
   render() {
-  	const AboutPage = (props) => {
+  	const AboutPage = () => {
   		return (
-  			<About langData= { this.sendData(this.props.language) } />
+  			<About viewData= { this.props.viewData } />
   		)
   	}
-  	const PortfolioPage = (props) => {
+  	const PortfolioPage = () => {
   		return (
-  			<Portfolio langData= { this.sendData(this.props.language) } />
-  		)
-  	}
-  	const ContactPage = (props) => {
-  		return (
-  			<Contact langData= { this.sendData(this.props.language) } />
+  			<Portfolio viewData= { this.props.viewData } />
   		)
   	}
     const pageStyle = {
@@ -41,7 +25,6 @@ class Main extends Component {
         	<div className="main-view">
   	        <Route exact path="/" render={ AboutPage } />
   	        <Route path="/portfolio" render={ PortfolioPage } />
-  	        <Route path="/contact" render={ ContactPage } />
           </div>
         </div>
       </div>

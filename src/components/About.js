@@ -2,12 +2,12 @@ import React, { Component } from 'react'
 
 class About extends Component {	
   render() {
-    const main = this.props.langData[0].banner.main
-    const sub = this.props.langData[0].banner.sub
-    const first = this.props.langData[1].about.first
-    const second = this.props.langData[1].about.second
-    const third = this.props.langData[1].about.third
-    const fourth = this.props.langData[1].about.fourth 
+    const main = this.props.viewData[0].banner.main
+    const sub = this.props.viewData[0].banner.sub
+    const first = this.props.viewData[1].about.first
+    const second = this.props.viewData[1].about.second
+    const third = this.props.viewData[1].about.third
+    const fourth = this.props.viewData[1].about.fourth 
     
     return (
       <div>

@@ -14,7 +14,9 @@ class Portfolio extends React.Component {
           </div>
           <div className="row">
             <div className="col s12">
-              <PortfolioFill langData={ this.props.langData } />
+              <PortfolioFill viewData={ this.props.viewData } />
+            </div>
+            <div className="col s12">
               <p className="center">I'm always looking to stretch my legs in some way, feel free to give me feedback and return to see what I've been working on!</p>
             </div>
           </div>

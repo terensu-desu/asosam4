@@ -5,7 +5,7 @@ class PortfolioFill extends React.Component {
     const clearMargin = {
       marginTop: "0"
     }
-    const cardsData = this.props.langData[2]
+    const cardsData = this.props.viewData[2]
     const cardMap = cardsData.map((card, i) => 
       <div className="col l4" key={i}>
         <div className="card z-depth-4">
