@@ -46,8 +46,23 @@
           menuWidth: 250,
           closeOnClick: true
         });
-        setInterval(function(){ $('.dropdown-button').dropdown(); }, 3000);
+        setInterval(function() {
+          reInitPage()
+        }, 2000)
       })
+      var currentLocation = window.location.href
+      function reInitPage() {
+        if(currentLocation != window.location.href) {
+          $(".nav-li").on("click", function() {
+            $(".nav-li").removeClass("active");
+            $(this).addClass("active")
+          });
+          $(".button-collapse").sideNav({
+            menuWidth: 250,
+            closeOnClick: true
+          }); 
+        }
+      }
     </script>
   </body>
 </html>
