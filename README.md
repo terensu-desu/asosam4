@@ -1,3 +1,9 @@
+## Author Notes:
+This was my first live version of a personal website. Here you can see my early understanding of React, React-Router, and the grid-based style library MaterializeCSS. 
+
+I called it a A Song of Script and Markup as a reference to one of my favorite book series, A Song of Ice and Fire.
+
+## Create-React-App Info:
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
